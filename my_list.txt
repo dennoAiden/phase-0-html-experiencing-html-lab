@@ -2,4 +2,4 @@
 "Fiddle Leaf Fig"
 "Pilea"
 "Golden Pothos"
-"Peace Lily"my_list.txt
+"Peace Lily"
